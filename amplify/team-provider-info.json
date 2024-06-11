@@ -1,0 +1,21 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-traderreact-dev-dbb72-authRole",
+      "UnauthRoleArn": "arn:aws:iam::104501356618:role/amplify-traderreact-dev-dbb72-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::104501356618:role/amplify-traderreact-dev-dbb72-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-traderreact-dev-dbb72-deployment",
+      "UnauthRoleName": "amplify-traderreact-dev-dbb72-unauthRole",
+      "StackName": "amplify-traderreact-dev-dbb72",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:104501356618:stack/amplify-traderreact-dev-dbb72/b2f68a40-27aa-11ef-a335-061f906d3db3",
+      "AmplifyAppId": "d4nwucn2ttwfo"
+    },
+    "categories": {
+      "auth": {
+        "traderreact74230a90": {},
+        "traderreact": {}
+      }
+    }
+  }
+}
